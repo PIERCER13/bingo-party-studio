@@ -24,6 +24,7 @@ bingo caller (75/90 balls) with voice narration and generator of printable cards
 - `.gitattributes`
 - `app.js`
 - `index.html`
+- `piercer_i18n.js`
 - `README.md`
 - `start.bat`
 - `styles.css`
