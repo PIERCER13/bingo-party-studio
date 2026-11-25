@@ -2,13 +2,13 @@
 
 # Piercer Bingo Party Studio
 
-Globo sorteador (75/90 bolas) com narração por voz e gerador de cartelas imprimíveis (A4 / PDF)
+bingo caller (75/90 balls) with voice narration and generator of printable cards (A4 / PDF)
 
 ## Features
 
-- **Tabs / Modes**: Globo Sorteador, Gerador de Cartelas
-- **Main Sections**: Painel de Bolas Sorteadas, Gerar Cartelas para Impressão / PDF
-- **Available Actions**: Globo Sorteador, Gerador de Cartelas, Sortear Bola, Iniciar Auto, Reiniciar Globo, Gerar Cartelas, Imprimir / Salvar PDF (A4)
+- **Tabs / Modes**: bingo caller, generator of cards
+- **Main Sections**: Painel of balls Sorteadas, generate cards for Impressão / PDF
+- **Available Actions**: bingo caller, generator of cards, draw ball, start Auto, Reiniciar Globo, generate cards, print / save PDF (A4)
 - **Auto-Save**: automatically persists changes in the browser (`localStorage`).
 - **Multi-Language**: built-in language switcher (`PT / EN / ES`).
 - **Print / PDF**: A4-optimized print layout via `@media print`.
