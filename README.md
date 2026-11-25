@@ -20,6 +20,8 @@ Globo sorteador (75/90 bolas) com narração por voz e gerador de cartelas impri
 
 ## Arquivos do Projeto
 
+- `.git`
+- `.gitattributes`
 - `app.js`
 - `index.html`
 - `README.md`
